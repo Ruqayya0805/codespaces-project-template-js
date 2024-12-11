@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sleep Tracker (CyberCup 2024)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and developed the frontend interface to display real-time data on sleep-affecting metrics such as heart rate and environmental factors. Integrated with Firebase to fetch and display sensor data for personalized sleep analysis using Gemini API. Received recognition for its innovative approach to enhancing sleep quality and health awareness.",
+    url: "https://github.com/Ruqayya0805/sleep-tracker",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Airline Database Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed a flight booking platform with a dynamic frontend, ensuring an intuitive user experience. Implemented Dijkstra's Algorithm for optimized shortest path calculation to suggest efficient flight routes. Utilized Oracle SQL for seamless database operations, including user data management and real-time ticket generation.",
+    url: "https://github.com/Ruqayya0805/flight-booking",
   },
   {
-    title: "My Resume Site",
+    title: "Sign Language Recognition Model",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a machine learning model achieving 99% accuracy in recognizing American Sign Language (ASL) signs. Leveraged Random Forest for precise classification and recognition of hand gestures. Implemented robust preprocessing techniques to ensure high accuracy and reliability for real-world usage.",
+    url: "https://github.com/Ruqayya0805/Sign-Language-",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Amigo Extension",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a browser extension to automate the repetitive task of clicking the Mark as Done button on a college online course platform. Streamlined user experience, reducing task time by 90%, enabling students to focus on course content.",
+    url: "https://github.com/Ruqayya0805/AMIGO-EXTENSION",
   },
 ];
 
